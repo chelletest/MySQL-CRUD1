@@ -16,3 +16,7 @@ This project contains test cases for verifying basic CRUD operations on a `users
 3. Use `test_report.md` to document results.
 
 Tested on MySQL 9.0.
+
+## Licence   
+
+This project is licenced under the MIT Licence.
